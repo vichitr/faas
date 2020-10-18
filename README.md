@@ -107,7 +107,7 @@ Here is a screenshot of the API gateway portal - designed for ease of use.
 
 ### SkillsMatter video presentation
 
-Great overview of OpenFaaS features, users and roadmap
+Great overview of OpenFaaS features, users and roadmap.
 
 * [HD Video](https://skillsmatter.com/skillscasts/10813-faas-and-furious-0-to-serverless-in-60-seconds-anywhere)
 
@@ -121,7 +121,7 @@ Functions as a Service or FaaS was a winner in the Cool Hacks contest for Docker
 
 * [Watch my FaaS keynote at Dockercon 2017](https://blog.docker.com/2017/04/dockercon-2017-mobys-cool-hack-sessions/)
 
-If you'd like to find the functions I used in the demos head over to the [faas-dockercon](https://github.com/alexellis/faas-dockercon/) repository.
+If you'd like to find the functions I used in the demos, head over to the [faas-dockercon](https://github.com/alexellis/faas-dockercon/) repository.
 
 **Background story**
 
